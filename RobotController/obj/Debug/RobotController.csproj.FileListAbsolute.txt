@@ -6,3 +6,6 @@ C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\bin\Debug\N
 C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\obj\Debug\RobotController.exe
 C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\obj\Debug\RobotController.pdb
 C:\Users\Eskca\Documents\Visual Studio 2015\Projects\RobotController\obj\Debug\RobotController.csprojResolveAssemblyReference.cache
+C:\GitTest\RobotController\RoboMove\RobotController\bin\Debug\RobotController.exe.config
+C:\GitTest\RobotController\RoboMove\RobotController\obj\Debug\RobotController.exe
+C:\GitTest\RobotController\RoboMove\RobotController\obj\Debug\RobotController.pdb
