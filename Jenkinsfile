@@ -4,7 +4,7 @@ pipeline{
     stage("build"){
       steps{
           echo 'building the applcation....OK'
-         echo Pool the app the applcation....2min OK'
+         echo Pool the app the applcation...2min OK'
       }
     }
     stage("test"){
